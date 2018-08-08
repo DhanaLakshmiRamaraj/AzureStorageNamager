@@ -1,0 +1,7 @@
+c:\users\dhanalakshmi\source\repos\AzureStorageManager\AzureStorageManager\bin\Debug\netcoreapp2.0\AzureStorageManager.deps.json
+c:\users\dhanalakshmi\source\repos\AzureStorageManager\AzureStorageManager\bin\Debug\netcoreapp2.0\AzureStorageManager.runtimeconfig.json
+c:\users\dhanalakshmi\source\repos\AzureStorageManager\AzureStorageManager\bin\Debug\netcoreapp2.0\AzureStorageManager.runtimeconfig.dev.json
+c:\users\dhanalakshmi\source\repos\AzureStorageManager\AzureStorageManager\bin\Debug\netcoreapp2.0\AzureStorageManager.dll
+c:\users\dhanalakshmi\source\repos\AzureStorageManager\AzureStorageManager\obj\Debug\netcoreapp2.0\AzureStorageManager.csproj.CoreCompileInputs.cache
+c:\users\dhanalakshmi\source\repos\AzureStorageManager\AzureStorageManager\obj\Debug\netcoreapp2.0\AzureStorageManager.AssemblyInfoInputs.cache
+c:\users\dhanalakshmi\source\repos\AzureStorageManager\AzureStorageManager\obj\Debug\netcoreapp2.0\AzureStorageManager.AssemblyInfo.cs
